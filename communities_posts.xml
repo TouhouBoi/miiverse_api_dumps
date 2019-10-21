@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+  <has_error>0</has_error>
+  <version>1</version>
+  <request_name>specified_posts</request_name>
+  <topic>
+    <community_id>6</community_id>
+  </topic>
+  <posts>
+    <post>
+      <body> </body>
+      <community_id>6</community_id>
+      <country_id>49</country_id>
+      <created_at>2018-02-24 17:11:01</created_at>
+      <feeling_id>0</feeling_id>
+      <id>AYYGAABB1WTJnLj94KDgsQ</id>
+      <is_autopost>0</is_autopost>
+      <is_community_private_autopost>0</is_community_private_autopost>
+      <is_spoiler>0</is_spoiler>
+      <is_app_jumpable>0</is_app_jumpable>
+      <empathy_count>0</empathy_count>
+      <language_id>1</language_id>
+      <mii/>
+      <mii_face_url/>
+      <number>6311923</number>
+      <painting/>
+      <format>tga</format>
+      <content></content>
+      <size>5000</size>
+      <url>http://google.com/</url>
+      <pid>1750429327</pid>
+      <platform_id>1</platform_id>
+      <region_id>2</region_id>
+      <reply_count>0</reply_count>
+      <screen_name/>
+      <title_id/>
+    </post>
+  </posts>
+</result>
