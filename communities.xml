@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+  <has_error>0</has_error>
+  <version>1</version>
+  <request_name>communities</request_name>
+  <communities>
+    <community>
+      <olive_community_id>1</olive_community_id>
+      <community_id>1</community_id>
+      <name>New Super Luigi U Community</name>
+      <description/>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>2</olive_community_id>
+      <community_id>2</community_id>
+      <name>Miitopia Community</name>
+      <description>Talk about the game or post your Mii QR codes here! ESRB: Everyone.</description>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>3</olive_community_id>
+      <community_id>3</community_id>
+      <name>Miiverse 2.0 Community</name>
+      <description>Miiverse 2.0 Main Community</description>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>4</olive_community_id>
+      <community_id>4</community_id>
+      <name>Super Smash Bros. for 3DS/Wii U Community</name>
+      <description>Posting screenshots from Nintendo 2DS, Nintendo 3DS or Nintendo 3DS XL is not possible because Miiverse 2.0 cannot be activated while playing this game.</description>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>5</olive_community_id>
+      <community_id>5</community_id>
+      <name>Nintendo Switch Community</name>
+      <description>Welcome to the Nintendo Switch Community! Post about the Nintendo Switch and its games or share your friend code with others here.</description>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>6</olive_community_id>
+      <community_id>6</community_id>
+      <name>Wii U Community</name>
+      <description>Welcome to the Wii U Community! Post about the Wii U and its games or share your Nintendo Network ID with others here.</description>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>8</olive_community_id>
+      <community_id>8</community_id>
+      <name>Captain Toad: Treasure Tracker</name>
+      <description>ESRB: Everyone</description>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>9</olive_community_id>
+      <community_id>9</community_id>
+      <name>Splatoon Community</name>
+      <description>Discuss Nintendo's colorful squid shooter here! (Discussion of its sequel is totally allowed too.)</description>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>10</olive_community_id>
+      <community_id>10</community_id>
+      <name>Legend of Zelda Series Community</name>
+      <description>Welcome to the community for the Legend of Zelda series. People from around the world can come here to talk about The Legend of Zelda.</description>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>13</olive_community_id>
+      <community_id>13</community_id>
+      <name>Mario vs. Donkey Kong: Tipping Stars</name>
+      <description>Welcome to the Mario vs. community. Donkey Kong: Tipping Stars Community. We draw your attention to the fact that it is prohibited to use this community or any other Miiverse 2.0 Community to exchange download codes. This is a special meeting place for players from all over the world regardless of language or region!</description>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>14</olive_community_id>
+      <community_id>14</community_id>
+      <name>YouTube Community</name>
+      <description>Discover and watch your favorite videos and channels on YouTube! Join this community to interact with other YouTube users in your region. Screenshots can be posted in this community.</description>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>15</olive_community_id>
+      <community_id>15</community_id>
+      <name>Year Of Luigi</name>
+      <description>Year Of Luigi is Back!</description>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>16</olive_community_id>
+      <community_id>16</community_id>
+      <name>Super Mario Odyssey</name>
+      <description>Talk About Super Mario Odyssey Here!</description>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>17</olive_community_id>
+      <community_id>17</community_id>
+      <name>ARMS</name>
+      <description/>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>19</olive_community_id>
+      <community_id>19</community_id>
+      <name>The Legend of Zelda: Breath of The Wild</name>
+      <description/>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>20</olive_community_id>
+      <community_id>20</community_id>
+      <name>Super Mario 3D Land</name>
+      <description/>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+    <community>
+      <olive_community_id>21</olive_community_id>
+      <community_id>21</community_id>
+      <name>Post API Testing</name>
+      <description>API Testing</description>
+      <icon/>
+      <icon_3ds/>
+      <pid/>
+      <app_data/>
+      <is_user_community>0</is_user_community>
+    </community>
+  </communities>
+</result>
