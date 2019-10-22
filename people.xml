@@ -26,9 +26,9 @@
       <number>784327</number>
       <painting>
         <format>tga</format>
-        <content></content>
+        <content>base64_image_here</content>
         <size>5000</size>
-        <url>http://google.com/</url>
+        <url>http://example.com/image.tga</url>
       </painting>
       <pid>1754471381</pid>
       <platform_id>1</platform_id>
