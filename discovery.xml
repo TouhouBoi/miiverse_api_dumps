@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<result>
+  <has_error>0</has_error>
+  <version>1</version>
+  <endpoint>
+    <host>api-us.olv.nintendo.net</host> <!-- Current Server Host URL -->
+    <api_host>api-us.olv.nintendo.net</api_host> <!-- Miiverse API URL -->
+    <portal_host>portal-us.olv.nintendo.net</portal_host> <!-- Wii U Interface URL -->
+    <n3ds_host>3ds-us.olv.nintendo.net</n3ds_host> <!-- 3DS Interface URL -->
+  </endpoint>
+</result>
