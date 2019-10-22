@@ -3,6 +3,7 @@ This is My Dumps of Nintendo's Miiverse API Before they Closed Miiverse.
 
 Files + URLs<br>
 --------------------------<br>
+discovery.xml - /v1/endpoint<br>
 communities.xml - /v1/communities<br>
 communities_posts.xml - /v1/communities/community_id_here/posts<br>
 people.xml - /v1/people<br>
