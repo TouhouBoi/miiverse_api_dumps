@@ -20,20 +20,21 @@
       <is_app_jumpable>0</is_app_jumpable>
       <empathy_count>0</empathy_count>
       <language_id>1</language_id>
-      <mii/>
-      <mii_face_url/>
-      <number>6311923</number>
-      <painting/>
-      <format>tga</format>
-      <content></content>
-      <size>5000</size>
-      <url>http://google.com/</url>
+      <mii></mii>
+      <mii_face_url>http://example.com/image.tga</mii_face_url>
+      <number>784327</number>
+      <painting>
+		    <format>tga</format>
+		    <content></content>
+		    <size>5000</size>
+		    <url>http://example.com/image.tga</url>
+	    </painting>
       <pid>1750429327</pid>
       <platform_id>1</platform_id>
       <region_id>2</region_id>
       <reply_count>0</reply_count>
-      <screen_name/>
-      <title_id/>
+      <screen_name>Touhouboi</screen_name>
+      <title_id></title_id>
     </post>
   </posts>
 </result>
