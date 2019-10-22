@@ -24,11 +24,11 @@
       <mii_face_url>http://example.com/image.tga</mii_face_url>
       <number>784327</number>
       <painting>
-		    <format>tga</format>
-		    <content></content>
-		    <size>5000</size>
-		    <url>http://example.com/image.tga</url>
-	    </painting>
+        <format>tga</format>
+        <content></content>
+        <size>5000</size>
+        <url>http://example.com/image.tga</url>
+      </painting>
       <pid>1750429327</pid>
       <platform_id>1</platform_id>
       <region_id>2</region_id>
