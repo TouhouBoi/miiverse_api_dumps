@@ -1,7 +1,7 @@
 # miiverse_api_dumps
-My Dumps of Miiverses API before it closed
+This is My Dumps of Nintendo's Miiverse API Before it they Closed Miiverse.
 
-File List with Urls<br>
+Files + URLs<br>
 --------------------------<br>
 communities.xml - /v1/communities<br>
 communities_posts.xml - /v1/communities/community_id_here/posts<br>
