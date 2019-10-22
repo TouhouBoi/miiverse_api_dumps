@@ -1,5 +1,5 @@
 # miiverse_api_dumps
-This is My Dumps of Nintendo's Miiverse API Before it they Closed Miiverse.
+This is My Dumps of Nintendo's Miiverse API Before they Closed Miiverse.
 
 Files + URLs<br>
 --------------------------<br>
