@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
   <has_error>0</has_error>
-  <version>1</version>
-  <request_name>specified_posts</request_name>
+  <version>1</version> <!-- Server API Version -->
+  <request_name>specified_posts</request_name> <!-- Request Name -->
   <topic>
-    <community_id>6</community_id>
+    <community_id>6</community_id> <!-- Community ID -->
   </topic>
   <posts>
     <post>
-      <app_data>AAAAAFNoYWRvd1R1bm5lbFN0YWdlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABWL8Dm</app_data>
-      <body> </body>
-      <community_id>23</community_id>
-      <country_id>49</country_id>
-      <created_at>2018-02-25 03:23:06</created_at>
-      <feeling_id>0</feeling_id>
-      <id>AYYGAABB9WcligYJs4whmA</id>
+      <app_data>AAAAAFNoYWRvd1R1bm5lbFN0YWdlAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABWL8Dm</app_data> <!-- Base64 Encoded Appdata -->
+      <body> </body> <!-- Post Body -->
+      <community_id>23</community_id> <!-- Community ID -->
+      <country_id>49</country_id> <!-- Users Country ID -->
+      <created_at>2018-02-25 03:23:06</created_at> <!-- When Post was Created -->
+      <feeling_id>0</feeling_id> <!-- Users Mii Feeling ID -->
+      <id>AYYGAABB9WcligYJs4whmA</id> <!-- Post ID -->
       <is_autopost>0</is_autopost>
       <is_community_private_autopost>0</is_community_private_autopost>
-      <is_spoiler>1</is_spoiler>
-      <is_app_jumpable>0</is_app_jumpable>
-      <empathy_count>0</empathy_count>
-      <language_id>1</language_id>
+      <is_spoiler>1</is_spoiler> <!-- Is Post Spoiler -->
+      <is_app_jumpable>0</is_app_jumpable> <!-- Can Open Title in EShop -->
+      <empathy_count>0</empathy_count> <!-- Post Yeah Count -->
+      <language_id>1</language_id> <!-- Users Language ID -->
       <mii>AwAAQAMxIAiG55HC1s7KOyKjEoHPbwAA0lRBAHUAcwB0AGkAbgAAAAAAAAAAAH8cAgBXAQhpRBgmNEYUgRISaA0AACkCUkhQQQBUAAAAdABpAG4AAAAAAAAAAAAAAKcg</mii>
-      <mii_face_url>http://example.com/image.tga</mii_face_url>
+      <mii_face_url>http://example.com/image.tga</mii_face_url> <!-- User Mii Face TGA Url -->
       <number>784327</number>
       <painting>
-        <format>tga</format>
-        <content>base64_image_here</content>
-        <size>5000</size>
-        <url>http://example.com/image.tga</url>
+        <format>tga</format> <!-- Image Format -->
+        <content>base64_image_here</content> <!-- Base64 Encoded TGA -->
+        <size>5000</size> <!-- TGA File Size -->
+        <url>http://example.com/image.tga</url> <!-- TGA Url -->
       </painting>
-      <pid>1754471381</pid>
-      <platform_id>1</platform_id>
-      <region_id>2</region_id>
-      <reply_count>0</reply_count>
-      <screen_name>Touhouboi</screen_name>
+      <pid>1754471381</pid> <!-- Users Friend Code -->
+      <platform_id>1</platform_id> <!-- Users Console/Platform ID -->
+      <region_id>2</region_id> <!-- Users Region ID -->
+      <reply_count>0</reply_count> <!-- Reply Count -->
+      <screen_name>Touhouboi</screen_name> <!-- Users Screen Name -->
       <topic_tag>
-        <name>Shadow-Play Alley</name>
-        <title_id>0</title_id>
+        <name>Shadow-Play Alley</name> <!-- Tag Name -->
+        <title_id>0</title_id> <!-- Game Title ID -->
       </topic_tag>
-      <title_id>0</title_id>
+      <title_id>0</title_id> <!-- Game Title ID -->
     </post>
   </posts>
 </result>
