@@ -1,7 +1,7 @@
 # miiverse_api_dumps
 These are My Dumps of Miiverse's API Before They Closed It Back in 2017. Please Note that These Dumps have been Modified to Remove Private Info.
 
-Files and Respective There Server URLs<br>
+Files and There Respective Server URLs<br>
 <br>
 <h2>Discovery Server Urls</h2>
 <br>
