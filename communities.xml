@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
   <has_error>0</has_error>
-  <version>1</version>
-  <request_name>communities</request_name>
+  <version>1</version> <!-- Server API Version -->
+  <request_name>communities</request_name> <!-- Request Name -->
   <communities>
     <community>
       <olive_community_id>1</olive_community_id>
       <community_id>1</community_id>
       <name>New Super Luigi U Community</name>
-      <description/>
-      <icon/>
-      <icon_3ds/>
-      <pid/>
+      <description/> <!-- Community Description -->
+      <icon/> <!-- Base64 Encoded TGA 128x128px -->
+      <icon_3ds/> <!-- Base64 Encoded TGA 48x48px -->
+      <pid/> <!-- Community Owner Friend Code -->
       <app_data/>
-      <is_user_community>0</is_user_community>
+      <is_user_community>0</is_user_community> <!-- If User Made Community -->
     </community>
     <community>
       <olive_community_id>2</olive_community_id>
