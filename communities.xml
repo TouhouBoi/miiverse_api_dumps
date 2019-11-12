@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <result>
-  <has_error>0</has_error>
+  <has_error>0</has_error> <!-- Server API Error -->
   <version>1</version> <!-- Server API Version -->
   <request_name>communities</request_name> <!-- Request Name -->
   <communities>
     <community>
-      <olive_community_id>1</olive_community_id>
-      <community_id>1</community_id>
-      <name>New Super Luigi U Community</name>
+      <olive_community_id>1</olive_community_id> <!-- Olive Commmunity ID -->
+      <community_id>1</community_id> <!-- Commmunity ID -->
+      <name>New Super Luigi U Community</name> <!-- Community Name -->
       <description/> <!-- Community Description -->
       <icon/> <!-- Base64 Encoded TGA 128x128px -->
       <icon_3ds/> <!-- Base64 Encoded TGA 48x48px -->
